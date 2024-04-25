@@ -1,0 +1,94 @@
+
+.dash {
+    background-image: url("https://atcwedding.com/blog/wp-content/uploads/2017/05/best-online-wedding-website.jpg");
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.btn1 {
+    float: right;
+    margin-right: 20px;
+}
+
+.btn2 {
+    float: right;
+    margin-right: 20px;
+}
+
+.text {
+    margin-top: 200px;
+    text-align: center;
+    color: black;
+}
+
+.subtext {
+    text-align: center;
+    color: black;
+}
+
+.bt {
+    background-color: rgb(241, 146, 162);
+    color: rgb(22, 17, 18);
+    margin-left: 400px;
+    margin-top: 40px;
+    height: 50px;
+    width: 200px;
+}
+
+.special {
+    color:black;
+    text-align: center;
+}
+
+
+/* .stories {
+    color: white;
+    text-align: center;
+} */
+.tx{
+    text-align: center;
+    margin-top: 20px;
+}
+.fixing1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.fixing2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+.stories {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.story {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.story img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.user-name {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.user-story {
+    color: aqua;
+}
+
+
+
+
